@@ -1,5 +1,3 @@
-*.csv
-ml-20m/
 tremplin*/
 *log*
-data/
+datasets/
