@@ -1,3 +1,5 @@
 tremplin*/
 *log*
 datasets/
+venv
+*images
